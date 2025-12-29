@@ -15,6 +15,7 @@
 | Intake fans | **Phanteks M25G2-140 Reverse Case RGB 3x** | 50 | Skroutz| ✅ | [Link](https://www.skroutz.cy/s/58100913/Phanteks-M25G2-140-Reverse-Case-Fan-me-ARGB-Fotismo-kai-Syndesi-6-Pin-3tmch-Leyko.html#sofos-entrypoint) |✅|
 | exaust fan | **Arctic P12 120mm fan** | 5 | Skroutz| ✅ | [Link](https://www.skroutz.cy/s/62466936/arctic-p12-pro-pst-12-case-fan-120mm-leyko.html) |✅|
 | Acessoricies | **Mouse/Keyboard/Mousepad** | 40 | Temu| ✅ | [Link](/) |✅|
+ram??
 
 **Total Cost:** €2,080€
 
