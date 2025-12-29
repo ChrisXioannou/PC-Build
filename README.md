@@ -20,6 +20,8 @@
 
 **Payed Amount** 1,635€
 
+G502 X LIGHTSPEED
+
 # Video
 https://www.youtube.com/watch?v=L_Ewhkf8nEE
 https://www.youtube.com/watch?v=cAjRYHhAYiQ
