@@ -23,20 +23,21 @@ I’m sharing this PC build publicly in the hope that it can help anyone who is 
 
 Every part listed here is exactly what I used, along with the links I relied on during the build.
 
-Most of these links work primarily in Cyprus and Greece, as they come from Skroutz. (You can still find similar prices in sites like Computer Universe).
+Most of these links work primarily in Cyprus and Greece, as they come from Skroutz. You can still find similar prices on sites like Computer Universe.
 
 Even if you’re based elsewhere, this list can still be useful as a reference for performance, compatibility, and realistic pricing ranges.
 
 I’ll also be uploading a YouTube video where I explain the build in detail, how I assembled everything, and why I chose each component.
 
-One important note regarding the RAM: prices have increased significantly recently! But I managed to find one of the last available kits at a much lower price. :) 
+One important note regarding the RAM: prices have increased significantly recently, but I managed to find one of the last available kits at a much lower price. 🙂
 
-I wanted this pc to be fully white and with a glass case. 
+I wanted this PC to be fully white and to have a glass case.
+
 
 **Total Cost:** €2,210
 
 
 ![pc_boy!](https://github.com/user-attachments/assets/606f8c96-eb46-4497-abfa-802adef46c8e)
 
-*Note I need to buy a gpu holder asap!
+*Note I need to buy a gpu holder ASAP!
 
