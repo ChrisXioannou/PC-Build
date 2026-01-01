@@ -33,7 +33,7 @@ One important note regarding the RAM: prices have increased significantly recent
 
 I wanted this pc to be fully white and with a glass case. 
 
-**Total Cost:** €2,080€
+**Total Cost:** €2,210
 
 
 ![pc_boy!](https://github.com/user-attachments/assets/606f8c96-eb46-4497-abfa-802adef46c8e)
