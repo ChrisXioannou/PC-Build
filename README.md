@@ -29,6 +29,7 @@ https://www.youtube.com/watch?v=cAjRYHhAYiQ
 
 
 
+![pc_boy!](https://github.com/user-attachments/assets/0b8a29a4-17fd-480c-b279-d87ccf3cd6bc)
 
 
 
