@@ -41,3 +41,6 @@ I wanted this PC to be fully white and to have a glass case.
 
 *Note I need to buy a gpu holder ASAP!
 
+
+
+
