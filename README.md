@@ -40,7 +40,7 @@ I wanted this PC to be fully white and to have a glass case.
 ![pc_boy!](https://github.com/user-attachments/assets/606f8c96-eb46-4497-abfa-802adef46c8e)
 
 *Note I need to buy a gpu holder ASAP!
-
+                         
 
 
 
