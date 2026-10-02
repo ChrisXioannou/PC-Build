@@ -19,17 +19,16 @@
 
 
 # Note:
-I’m sharing this PC build publicly in the hope that it can help anyone who is planning a similar setup or researching components and prices (in euros).
+
+Built right before the market went vertical. Every price in this table is a pre-spike price, the kind you can't get anymore, and the RAM kit in particular was one of the last at that number before DDR5 doubled. Call it luck, call it timing, the receipts are above.
+
+I'm sharing this build publicly in the hope that it helps anyone planning a similar setup or researching components and prices (in euros).
 
 Every part listed here is exactly what I used, along with the links I relied on during the build.
 
 Most of these links work primarily in Cyprus and Greece, as they come from Skroutz. You can still find similar prices on sites like Computer Universe.
 
-Even if you’re based elsewhere, this list can still be useful as a reference for performance, compatibility, and realistic pricing ranges.
-
-I’ll also be uploading a YouTube video where I explain the build in detail, how I assembled everything, and why I chose each component.
-
-One important note regarding the RAM: prices have increased significantly recently, but I managed to find one of the last available kits at a much lower price. 🙂
+Even if you're based elsewhere, this list is still useful as a reference for performance, compatibility, and realistic pricing ranges. Treat the numbers as a historical floor, not a current quote.
 
 I wanted this PC to be fully white and to have a glass case.
 
